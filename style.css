@@ -1,10 +1,10 @@
 p
 {
-    color:rgb(153, 51, 85);
+    color:rgb(121, 51, 153);
     font-size:large;
 }
 
-body{background-color:rgb(113, 182, 185)}
+body{background-color:rgb(189, 130, 20)}
 
 div
 
@@ -13,3 +13,9 @@ div
     margin:auto;
     
 }
+    #head
+    {
+        font: size: 25px;
+
+    }
+    
